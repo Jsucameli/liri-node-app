@@ -1,0 +1,2188 @@
+
+---------------------------------------------------
+
+Artist: Ace of Base
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f34861aa604948bf8adbbece7011e435
+
+---------------------------------------------------
+
+
+Title: undefined
+
+---------------------------------------------------
+
+Country: undefined
+Language: undefined
+Plot: undefined
+Release Year: undefined
+
+---------------------------------------------------
+
+IMDB Rating: undefined
+Actors: undefined
+undefined
+
+---------------------------------------------------
+
+IMDB Rating: undefined
+Title: undefined
+Country: undefined
+Language: undefined
+Release Year: undefined
+Plot: undefined
+Actors: undefined
+
+---------------------------------------------------
+
+undefined
+
+---------------------------------------------------
+
+IMDB Rating: undefined
+Title: undefined
+Country: undefined
+Release Year: undefined
+Language: undefined
+Actors: undefined
+Plot: undefined
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: undefined
+Release Year: undefined
+Country: undefined
+Language: undefined
+Plot: undefined
+Actors: undefined
+
+---------------------------------------------------
+
+IMDB Rating: undefined
+
+---------------------------------------------------
+
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+
+---------------------------------------------------
+
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+
+---------------------------------------------
+
+date: 04/28/2019
+Country: MA
+Name: TD Garden
+Country: United States
+
+---------------------------------------------------
+
+City: Boston
+Name: MassMutual Center
+City: Springfield
+
+---------------------------------------------
+
+date: 04/30/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Country: MA
+Name: Barclays Center
+Country: NY
+City: Brooklyn
+date: 05/02/2019
+
+---------------------------------------------------
+
+date: 05/03/2019
+Name: Prudential Center
+City: Newark
+Country: United States
+
+---------------------------------------------
+
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Name: Van Andel Arena
+date: 05/08/2019
+City: Grand Rapids
+Country: United States
+Country: MI
+
+---------------------------------------------------
+
+Name: Enterprise Center
+date: 05/10/2019
+
+---------------------------------------------
+
+Country: United States
+City: Saint Louis
+
+---------------------------------------------------
+
+date: 05/12/2019
+
+---------------------------------------------
+
+Name: Fiserv Forum
+City: Milwaukee
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+Country: MO
+Name: CHI Health Center Omaha
+City: Omaha
+date: 05/14/2019
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Country: NE
+date: 05/16/2019
+Country: United States
+Name: Denny Sanford Premier Center
+Country: SD
+City: Sioux Falls
+Country: United States
+
+---------------------------------------------------
+
+Name: Xcel Energy Center
+
+---------------------------------------------
+
+Country: MN
+date: 05/18/2019
+Country: United States
+
+---------------------------------------------------
+
+date: 05/21/2019
+
+---------------------------------------------
+
+Name: Bell MTS Place
+City: St Paul
+City: Winnipeg
+Country: Canada
+
+---------------------------------------------------
+
+date: 05/23/2019
+City: Saskatoon
+Name: Sasktel Centre
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+Country: Canada
+date: 05/25/2019
+
+---------------------------------------------
+
+Country: Canada
+City: Edmonton
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+date: 05/28/2019
+Name: Scotiabank Saddledome
+City: Calgary
+Name: Rogers Place
+
+---------------------------------------------------
+
+date: 05/30/2019
+Name: Rogers Arena
+
+---------------------------------------------
+
+Country: Canada
+City: Vancouver
+
+---------------------------------------------------
+
+date: 08/21/2019
+
+---------------------------------------------
+
+City: Las Vegas
+Name: Park MGM Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+date: 08/23/2019
+
+---------------------------------------------
+
+City: Las Vegas
+Country: Canada
+Name: Park MGM Las Vegas
+Country: United States
+
+---------------------------------------------------
+
+date: 08/24/2019
+
+---------------------------------------------
+
+Country: NV
+City: Las Vegas
+Country: United States
+Name: Park MGM Las Vegas
+
+---------------------------------------------------
+
+date: 08/28/2019
+Country: NV
+Name: Park MGM Las Vegas
+City: Las Vegas
+
+---------------------------------------------
+
+Country: NV
+
+---------------------------------------------------
+
+date: 08/31/2019
+Name: Park MGM Las Vegas
+Country: United States
+
+---------------------------------------------
+
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/01/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+date: 09/26/2019
+
+---------------------------------------------
+
+Name: Mercedes-Benz Arena Berlin
+Country: Germany
+City: Las Vegas
+
+---------------------------------------------------
+
+City: Berlin
+date: 09/28/2019
+Name: Antwerps Sportpaleis
+City: Antwerpen
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/30/2019
+
+---------------------------------------------
+
+Name: Ziggo Dome
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/03/2019
+City: Amsterdam
+Name: Kleine Olympiahalle München
+
+---------------------------------------------------
+
+City: München
+date: 10/05/2019
+Name: Lanxess Arena
+Country: Germany
+
+---------------------------------------------
+
+City: Köln
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Country: Germany
+Name: Wiener Stadthalle - Halle D
+City: Vienna
+date: 10/07/2019
+
+---------------------------------------------------
+
+Country: Austria
+
+---------------------------------------------
+
+City: Zürich
+Name: Hallenstadion
+Country: Switzerland
+
+---------------------------------------------------
+
+date: 10/11/2019
+date: 10/09/2019
+
+---------------------------------------------
+
+Name: SAP Arena
+Country: Germany
+
+---------------------------------------------------
+
+City: Mannheim
+
+---------------------------------------------
+
+Name: Barclaycard Arena Hamburg
+City: Hamburg
+date: 10/13/2019
+
+---------------------------------------------------
+
+Country: Germany
+
+---------------------------------------------
+
+Name: Royal Arena
+City: København S
+
+---------------------------------------------------
+
+date: 10/15/2019
+
+---------------------------------------------
+
+date: 10/17/2019
+Name: Friends Arena
+Country: Denmark
+
+---------------------------------------------------
+
+Country: Sweden
+
+---------------------------------------------
+
+City: Stockholm
+date: 10/20/2019
+Name: The O2
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Name: The O2 Arena
+date: 10/21/2019
+Country: United Kingdom
+City: London
+City: London
+
+---------------------------------------------------
+
+Name: Manchester Arena
+date: 10/24/2019
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+date: 10/26/2019
+
+---------------------------------------------
+
+City: Birmingham
+Name: Arena Birmingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/28/2019
+Name: The SSE Hydro
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+City: Glasgow
+Name: First Direct Arena
+
+---------------------------------------------
+
+City: Leeds
+Country: United Kingdom
+
+---------------------------------------------------
+
+date: 10/30/2019
+Country: United Kingdom
+Name: 3Arena
+
+---------------------------------------------
+
+Country: Ireland
+
+---------------------------------------------------
+
+City: Dublin
+
+---------------------------------------------
+
+Name: SSE Arena
+date: 11/01/2019
+City: Belfast
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/19/2019
+Name: Moda Center
+Country: OR
+date: 11/03/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/21/2019
+City: Portland
+City: San Francisco
+Name: Chase Center
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/23/2019
+Name: Gila River Arena
+City: Glendale
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/25/2019
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/27/2019
+Name: United Center
+City: Chicago
+Country: United States
+
+---------------------------------------------------
+
+Country: IL
+
+---------------------------------------------
+
+date: 11/29/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/03/2019
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/06/2019
+Name: Wells Fargo Center
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/08/2019
+Country: AZ
+Name: TD Garden
+Country: United States
+
+---------------------------------------------------
+
+City: Boston
+
+---------------------------------------------
+
+Country: MA
+date: 12/10/2019
+Name: Capital One Arena
+Country: United States
+Country: DC
+City: Washington
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+City: New Orleans
+Name: Smoothie King Center
+Country: United States
+
+---------------------------------------------------
+
+date: 12/13/2019
+
+---------------------------------------------
+
+Name: Toyota Center
+City: Houston
+Country: TX
+Country: United States
+Country: LA
+
+---------------------------------------------------
+
+date: 12/15/2019
+date: 12/17/2019
+
+---------------------------------------------
+
+Country: TX
+City: San Antonio
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Name: American Airlines Center
+City: Dallas
+Name: AT&T Center
+Country: TX
+date: 12/19/2019
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------
+
+date: 05/04/2019
+Name: Assassins live
+City: Abbotsford
+Country: Australia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Ace of Base
+Preview: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f34861aa604948bf8adbbece7011e435
+
+---------------------------------------------------
+
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+
+---------------------------------------------------
+
+Artist: Lil Skies
+Preview: https://p.scdn.co/mp3-preview/80fe63341ea2888fd7851df4fabe735548965ba9?cid=f34861aa604948bf8adbbece7011e435
+Song: i
+Album: Shelby
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/04/2019
+Name: Kunstgebäude Kuppelsaal
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/07/2019
+Name: The Magnificent Spiegeltent
+City: Nottingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/30/2019
+Name: Rebar
+City: Seattle
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 06/08/2019
+Name: Scène Évolu-son
+City: Rouyn-noranda
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 06/26/2019
+Name: The Verdict Cafe and Jazz Club
+City: Brighton
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 01/23/2020
+Name: Lütfi Kırdar Auditorium
+Country: Germany
+Country: Turkey
+
+---------------------------------------------------
+
+City: Stuttgart
+City: Istanbul
+
+---------------------------------------------------
+
+Song: Tere Bin Nahi Laage (Male)- Remix[Remix By Dj Angle]
+Preview: https://p.scdn.co/mp3-preview/4feadd4fa7b2a924adde866d3a09e08066445940?cid=f34861aa604948bf8adbbece7011e435
+Album: Ek Paheli Leela Remix
+
+---------------------------------------------------
+
+Artist: Uzair Jaswal
+
+---------------------------------------------
+
+date: 05/02/2019
+Name: Pianos
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/04/2019
+Name: Chesterfield Amphitheater
+City: Chesterfield
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/09/2019
+Name: Arcada Theatre
+City: St Charles
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/10/2019
+Name: Reggie's Rock Club
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/16/2019
+Name: Pianos
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/23/2019
+Name: Pianos
+City: New York
+Country: United States
+Country: NY
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/30/2019
+Name: Pianos
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 06/01/2019
+Name: SCALA SUPER CLUB
+City: Kingscross
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Name: INFINITY YACHT
+date: 08/16/2019
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+date: 08/22/2019
+
+---------------------------------------------
+
+Name: Underworld
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/23/2019
+Name: Rescue Rooms
+City: Nottingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/04/2019
+Name: Whisky A Go Go
+City: West Hollywood
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Bheems Ceciroleo
+Song: Angel
+Preview: https://p.scdn.co/mp3-preview/cbf96ee4b9f11ce65f9cc8af0794460989cd002a?cid=f34861aa604948bf8adbbece7011e435
+Album: Angel (Original Motion Picture Soundtrack)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Amilli
+Preview: https://p.scdn.co/mp3-preview/cebf44b3a626add14fc86ebf908d3756ab0d4455?cid=f34861aa604948bf8adbbece7011e435
+Song: Rarri
+Album: Rarri
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: 21 Savage
+Preview: null
+Song: a lot
+
+---------------------------------------------------
+
+Album: i am > i was
+
+---------------------------------------------
+
+Name: Pier 40
+date: 05/03/2019
+City: Arbor West
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------
+
+date: 05/04/2019
+Name: Alphabet Club
+City: Tel Aviv District
+Country: Israel
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/17/2019
+Name: Avalon Theatre
+City: Grand Junction
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 06/01/2019
+Name: Swim
+City: Prague
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 06/02/2019
+Name: Camden Rocks Festival
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 06/06/2019
+Name: C'Mon Everybody
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 06/08/2019
+Name: 215 Sydney Washer Rd
+City: Dover
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/16/2019
+Name: Wittenbergplatz
+City: Berlin-altglienicke
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/16/2019
+Name: Ole Bull Scene
+City: Bergen
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f34861aa604948bf8adbbece7011e435
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Artist: Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f34861aa604948bf8adbbece7011e435
+Album: The Sign (US Album) [Remastered]
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/05/2019
+Country: 東京都
+Name: Ｚｅｐｐ　ＤｉｖｅｒＣｉｔｙ　ＴＯＫＹＯ
+Country: 日本
+City: 江東区
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 04/28/2019
+City: Boston
+Name: TD Garden
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 04/30/2019
+Name: MassMutual Center
+City: Springfield
+Country: MA
+
+---------------------------------------------------
+
+Country: United States
+date: 05/02/2019
+
+---------------------------------------------
+
+City: Brooklyn
+Name: Barclays Center
+Country: NY
+Country: United States
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+date: 05/03/2019
+Name: Prudential Center
+City: Newark
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/08/2019
+Name: Van Andel Arena
+City: Grand Rapids
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/10/2019
+Name: Enterprise Center
+City: Saint Louis
+Country: MO
+Country: United States
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+date: 05/12/2019
+Name: Fiserv Forum
+City: Milwaukee
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/14/2019
+Name: CHI Health Center Omaha
+Country: NE
+City: Omaha
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/16/2019
+Name: Denny Sanford Premier Center
+City: Sioux Falls
+Country: SD
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------
+
+date: 05/18/2019
+Name: Xcel Energy Center
+Country: MN
+City: St Paul
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/21/2019
+Country: United States
+Name: Bell MTS Place
+City: Winnipeg
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/23/2019
+Name: Sasktel Centre
+City: Saskatoon
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/25/2019
+Name: Rogers Place
+City: Edmonton
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/28/2019
+Name: Scotiabank Saddledome
+City: Calgary
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/30/2019
+City: Vancouver
+Name: Rogers Arena
+Country: Canada
+
+---------------------------------------------------
+
+date: 08/21/2019
+
+---------------------------------------------
+
+Name: Park MGM Las Vegas
+Country: United States
+City: Las Vegas
+Country: NV
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/23/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------
+
+Name: Park MGM Las Vegas
+date: 08/24/2019
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+date: 08/28/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/31/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/01/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/26/2019
+Name: Mercedes-Benz Arena Berlin
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/28/2019
+Name: Antwerps Sportpaleis
+City: Antwerpen
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/30/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/03/2019
+Name: Kleine Olympiahalle München
+City: München
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/05/2019
+Name: Lanxess Arena
+City: Köln
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/07/2019
+Name: Wiener Stadthalle - Halle D
+City: Vienna
+Country: Austria
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/09/2019
+Name: Hallenstadion
+City: Zürich
+Country: Switzerland
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/11/2019
+Name: SAP Arena
+City: Mannheim
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/13/2019
+Name: Barclaycard Arena Hamburg
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/15/2019
+Name: Royal Arena
+City: Hamburg
+City: København S
+
+---------------------------------------------------
+
+Country: Denmark
+date: 10/17/2019
+
+---------------------------------------------
+
+City: Stockholm
+Name: Friends Arena
+
+---------------------------------------------------
+
+Country: Sweden
+
+---------------------------------------------
+
+Country: Germany
+date: 10/20/2019
+Name: The O2
+Country: United Kingdom
+City: London
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/21/2019
+Name: The O2 Arena
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+City: Manchester
+Name: Manchester Arena
+
+---------------------------------------------------
+
+date: 10/24/2019
+
+---------------------------------------------
+
+date: 10/26/2019
+Country: United Kingdom
+City: Birmingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+date: 10/28/2019
+Name: Arena Birmingham
+Name: The SSE Hydro
+City: Glasgow
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+date: 10/30/2019
+Country: United Kingdom
+Name: First Direct Arena
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+City: Leeds
+Country: United Kingdom
+
+---------------------------------------------
+
+City: Dublin
+date: 11/01/2019
+Name: 3Arena
+Country: Ireland
+
+---------------------------------------------------
+
+Name: SSE Arena
+City: Belfast
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Name: Moda Center
+date: 11/03/2019
+date: 11/19/2019
+Country: United States
+
+---------------------------------------------
+
+Country: OR
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Name: Chase Center
+date: 11/21/2019
+Country: CA
+City: San Francisco
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/23/2019
+Name: Gila River Arena
+City: Portland
+Country: United States
+
+---------------------------------------------------
+
+Country: AZ
+
+---------------------------------------------
+
+date: 11/25/2019
+Name: Pepsi Center
+City: Glendale
+City: Denver
+Country: United States
+
+---------------------------------------------------
+
+date: 11/27/2019
+
+---------------------------------------------
+
+Name: United Center
+City: Chicago
+Country: United States
+Country: CO
+
+---------------------------------------------------
+
+date: 11/29/2019
+
+---------------------------------------------
+
+City: Toronto
+Name: Scotiabank Arena
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Country: Canada
+date: 12/03/2019
+Name: Madison Square Garden
+Country: NY
+City: New York
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Name: Wells Fargo Center
+City: Philadelphia
+Country: PA
+date: 12/06/2019
+
+---------------------------------------------------
+
+Country: United States
+
+---------------------------------------------
+
+Name: TD Garden
+date: 12/08/2019
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Country: IL
+Name: Capital One Arena
+City: Washington
+date: 12/10/2019
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+Country: DC
+Name: Smoothie King Center
+date: 12/13/2019
+City: New Orleans
+Country: United States
+
+---------------------------------------------------
+
+Country: LA
+
+---------------------------------------------
+
+date: 12/15/2019
+Name: Toyota Center
+Country: TX
+City: Houston
+
+---------------------------------------------------
+
+date: 12/17/2019
+Name: AT&T Center
+
+---------------------------------------------
+
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+City: San Antonio
+Country: United States
+
+---------------------------------------------
+
+date: 12/19/2019
+Name: American Airlines Center
+City: Dallas
+Country: United States
+
+---------------------------------------------------
+
+Country: TX
+
+---------------------------------------------
+
+date: 04/28/2019
+Name: TD Garden
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------
+
+
+---------------------------------------------------
+
+date: 04/30/2019
+Name: MassMutual Center
+City: Springfield
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/02/2019
+Name: Barclays Center
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/03/2019
+Name: Prudential Center
+City: Newark
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/08/2019
+Name: Van Andel Arena
+City: Grand Rapids
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/10/2019
+Name: Enterprise Center
+City: Saint Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/12/2019
+Name: Fiserv Forum
+City: Milwaukee
+Country: WI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/14/2019
+Name: CHI Health Center Omaha
+City: Omaha
+Country: NE
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/16/2019
+Name: Denny Sanford Premier Center
+City: Sioux Falls
+Country: SD
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/18/2019
+Name: Xcel Energy Center
+City: St Paul
+Country: MN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/21/2019
+Name: Bell MTS Place
+City: Winnipeg
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/23/2019
+Name: Sasktel Centre
+City: Saskatoon
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/25/2019
+Name: Rogers Place
+City: Edmonton
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/28/2019
+Name: Scotiabank Saddledome
+City: Calgary
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 05/30/2019
+Name: Rogers Arena
+City: Vancouver
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/21/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/23/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/24/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/28/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 08/31/2019
+Name: Park MGM Las Vegas
+Country: United States
+City: Las Vegas
+
+---------------------------------------------------
+
+Country: NV
+
+---------------------------------------------
+
+date: 09/01/2019
+Name: Park MGM Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/26/2019
+Name: Mercedes-Benz Arena Berlin
+City: Berlin
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/28/2019
+Name: Antwerps Sportpaleis
+City: Antwerpen
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 09/30/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/03/2019
+Name: Kleine Olympiahalle München
+City: München
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/05/2019
+Name: Lanxess Arena
+City: Köln
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/07/2019
+Name: Wiener Stadthalle - Halle D
+City: Vienna
+Country: Austria
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/09/2019
+Name: Hallenstadion
+City: Zürich
+Country: Switzerland
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/11/2019
+Name: SAP Arena
+City: Mannheim
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/13/2019
+Name: Barclaycard Arena Hamburg
+City: Hamburg
+Country: Germany
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/15/2019
+Name: Royal Arena
+City: København S
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/17/2019
+Name: Friends Arena
+City: Stockholm
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/20/2019
+Name: The O2
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/21/2019
+Name: The O2 Arena
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/24/2019
+Name: Manchester Arena
+City: Manchester
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/26/2019
+Name: Arena Birmingham
+City: Birmingham
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/28/2019
+Name: The SSE Hydro
+City: Glasgow
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 10/30/2019
+Name: First Direct Arena
+City: Leeds
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/01/2019
+Name: 3Arena
+City: Dublin
+Country: Ireland
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/03/2019
+Name: SSE Arena
+City: Belfast
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/19/2019
+Name: Moda Center
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/21/2019
+Name: Chase Center
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/23/2019
+Name: Gila River Arena
+City: Glendale
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/25/2019
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/27/2019
+Name: United Center
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 11/29/2019
+Name: Scotiabank Arena
+City: Toronto
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/03/2019
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/06/2019
+Name: Wells Fargo Center
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/08/2019
+Name: TD Garden
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/10/2019
+Name: Capital One Arena
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/13/2019
+Name: Smoothie King Center
+City: New Orleans
+Country: LA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/15/2019
+Name: Toyota Center
+City: Houston
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/17/2019
+Name: AT&T Center
+City: San Antonio
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------
+
+date: 12/19/2019
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f34861aa604948bf8adbbece7011e435
+Album: The Sign (US Album) [Remastered]
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=f34861aa604948bf8adbbece7011e435
+
+---------------------------------------------------
+
