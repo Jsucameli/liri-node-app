@@ -1,7 +1,5 @@
 # liri-node-app
 
-https://drive.google.com/file/d/1wbZ71VJLdk1Ffjf6MSX5c_kO20gkFkVq/view
-
 LIRI BOT
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
@@ -49,3 +47,5 @@ If the user doesn't type a movie in, the program will output data for the movie 
 node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+
+Here is what it looks like when working: https://drive.google.com/file/d/1wbZ71VJLdk1Ffjf6MSX5c_kO20gkFkVq/view
